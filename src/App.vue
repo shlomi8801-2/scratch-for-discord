@@ -31,6 +31,7 @@ import "./blocks/database/";
 import "./blocks/text/";
 import "./blocks/loops/";
 import "./blocks/other/";
+import "./blocks/folder1/";
 import "./prompt";
 
 import Theme from '@blockly/theme-modern';
